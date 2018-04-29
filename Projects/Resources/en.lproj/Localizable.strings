@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Projects
+
+  Created by Min Wu on 22/04/2018.
+  Copyright © 2018 Min Wu. All rights reserved.
+*/
+
+/* Project */
+"GetProject" = "Get projects...";
+"SearchProjectTextFieldPlaceholder" = "Search project";
+
+/* Task List */
+"TaskListScreenTitle" = "Task List";
+"GetTaskList" = "Get task lists...";
+"SearchTaskListTextFieldPlaceholder" = "Search task list";
+
+/* Task */
+"TaskScreenTitle" = "Task";
+"GetTask" = "Get tasks...";
+"SearchTaskTextFieldPlaceholder" = "Search task";
+
+/* Indicatior */
+"IndicatorLoading" = "Loading...";
+
+/* Status */
+"NoConnectionMessage" = "Internet is unavailable.";
+"GetProjectFailedMessage" = "Get projects failed. Please try again later.";
+"GetTaskListFailedMessage" = "Get task lists failed. Please try again later.";
+"GetTaskFailedMessage" = "Get task failed. Please try again later.";
