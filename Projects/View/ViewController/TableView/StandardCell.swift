@@ -82,6 +82,8 @@ class StandardCell: UITableViewCell {
 
     private func configureTags(_ tags: [Tag]?) {
 
+        self.tagStackView.arrangedSubviews.forEach {$0.removeFromSuperview()}
+
         guard let tags = tags, tags.isEmpty == false else {
             self.tagScrollView.isHidden = true
             return
